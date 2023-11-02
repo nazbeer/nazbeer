@@ -24,7 +24,7 @@ I'm Nasbeer Ahammed, a passionate software developer and team lead with a love f
 10. Tabeeb.com 
 
 🌱 **Currently Learning**
-- Exploring advanced Power BI data modeling and visualization techniques, mastering React for dynamic web interfaces, and diving deeper into Node.js for backend development.
+- Exploring advanced Power BI data modeling and visualization techniques.
 
 📫 **Let's Connect**
 - LinkedIn: https://linkedin.com/in/nazbeerahammed
