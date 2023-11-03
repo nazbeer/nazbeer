@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My Profile! 👋
 
 I'm Nasbeer Ahammed, a passionate software developer and team lead with a love for creating innovative and efficient solutions. With experience in a variety of programming languages and a commitment to clean code, I'm dedicated to building high-quality software.
 
