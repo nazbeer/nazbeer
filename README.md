@@ -4,7 +4,8 @@ I'm Nasbeer Ahammed, a passionate software developer and team lead with a love f
 
 🚀 **Skills and Expertise**
 - Languages: JavaScript, Python, PHP
-- Web Development: HTML5, Bootstrap, Tailwind, Ant Design, React, Node.js, Express, Laravel, Wordpress
+- Web Development: HTML5, Bootstrap, Tailwind, Ant Design, React, Node.js, Express, Laravel, Wordpress, Redux, MobX
+- Mobile App Dev: React Native, Android
 - Database: SQL, MongoDB, MySQL, Oracle
 - DevOps: Docker, CI/CD
 - Business Analysis: Power Bi, MS Excel
@@ -15,13 +16,16 @@ I'm Nasbeer Ahammed, a passionate software developer and team lead with a love f
 1. Gulf Way Group Website - https://group2.gulfwayoiltrading.com/
 2. Gulf Way Marketing Website - https://testing.gulfwaymarketing.com/
 3. Gulf Way Delivery Website - https://private.gulfwaydelivery.com/
-4. Petology Website - https://petology.learnwithsaeed.com/
-5. Petology - Veterinary Management System
+4. Gulf Way Media - https://ahmed.gulfwaymedia.com/
+5. Petology Website - https://petology.learnwithsaeed.com/
+   - The "Petology Veterinary and Grooming" project comprises a WordPress website and a React dashboard. The website, built on WordPress, offers a user-friendly content management system for the veterinary and grooming business, facilitating the creation and management of online content. In parallel, the React dashboard delivers an efficient and dynamic interface for internal operations, enhancing the management of veterinary services and grooming appointments, and providing real-time insights. These components together form an integrated digital solution to optimize customer-facing and internal processes for Petology Veterinary and Grooming.
 6. Gulf Way Car Rental Dashboard and Website
+   - The "Gulf Way Car Rental" project entails the development of both a dashboard and a website. For the dashboard, React is employed for creating the frontend, Node.js powers the backend, and MongoDB serves as the database for efficient data storage and retrieval. Meanwhile, the website is constructed using WordPress, a user-friendly and widely adopted content management system, enabling easy content creation and management for the car rental business. These technologies together form a comprehensive solution to streamline operations and enhance the online presence of Gulf Way Car Rental.
 7. Gulf Way Delivery Dashboard and React Native App
 8. Gulf Way Limo React Website and Dashboard
 9. Jubna Website, Native Ads platform - https://jubna.com
-10. Tabeeb.com 
+10. Tabeeb.com
+    - Healthcare project with Doctor consultation developed in React and Wordpress
 
 🌱 **Currently Learning**
 - Exploring advanced Power BI data modeling and visualization techniques.
