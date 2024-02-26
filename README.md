@@ -4,8 +4,8 @@ I'm Nasbeer Ahammed, a passionate software developer and team lead with a love f
 
 🚀 **Skills and Expertise**
 - Languages: JavaScript, Python, PHP
-- Web Development: HTML5, Bootstrap, Tailwind, Ant Design, React, Node.js, Express, Laravel, Wordpress, Redux, MobX
-- Mobile App Dev: React Native, Android
+- Web Development: HTML5, Bootstrap, Tailwind, Ant Design, React, Node.js, Express, Laravel, Wordpress, Redux, MobX, Django, DRF, Celery etc
+- Mobile App Dev: React Native, Android, Flutter
 - Database: SQL, MongoDB, MySQL, Oracle
 - DevOps: Docker, CI/CD
 - Business Analysis: Power Bi, MS Excel
